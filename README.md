@@ -1,6 +1,3 @@
-Below is a **clean GitHub README version** you can directly paste.
-
----
 
 # Customer Segmentation Analysis
 
@@ -76,4 +73,3 @@ The objective of this project is to segment customers based on **demographic, be
 
 ---
 
-If you want, I can next generate a **complete GitHub-ready repository structure (README + dataset format + notebook + output screenshots plan)** that makes this project look **industry-level (very strong for Data Analyst interviews)**.
